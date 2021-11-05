@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArshadChowdhury
 - 👀 I’m interested in ...Learning programming
-- 🌱 I’m currently learning ... Web development
-- 💞️ I’m looking to collaborate on ... anything tbh
+- 🌱 I’m currently learning ... Web Development
+- 💞️ I’m looking to collaborate on ... Good Projects
 - 📫 How to reach me ...arshadchowdhury46@gmail.com
 
 <!---
