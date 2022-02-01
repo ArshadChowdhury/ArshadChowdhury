@@ -9,6 +9,7 @@
 - Node.JS
 - MongoDB
 
+## More Info
 - 👯 Looking to collaborate on Good Web Apps & Sites 
 - 🔭 Because I’m currently building up my Portfolio & Resume
 - 🌱 I’m also learning Python
