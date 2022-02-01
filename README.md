@@ -4,7 +4,7 @@
 - 👯 Looking to collaborate on Good Web Apps & Sites 
 - 🔭 because I’m currently building up my Portfolio & Resume.
 - 🌱 I’m also learning Python.
-- 💬 You can ask me about Web Design & Development .
+- 💬 You can ask me about Web Design & Development.
 - 📫 Mail me to contact : arshadchowdhury46@gmail.com 
 
 ## Skills & Experience
