@@ -3,7 +3,7 @@
 
 ### My thirst for knowledge cannot be quenched! - **Rubick**
 
-![I am a Web Designer & Developer](https://github.com/ArshadChowdhury/ArshadChowdhury/blob/main/rubick_img.jpg?raw=true)
+![I am a Web Designer & Developer](https://github.com/ArshadChowdhury/ArshadChowdhury/blob/main/readme_banner.jpg?raw=true)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
