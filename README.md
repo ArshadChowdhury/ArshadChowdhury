@@ -1,5 +1,11 @@
 # I'm Arshad, A Web Designer & Developer 💻
 
+## Little About Me
+- 👯 Looking to collaborate on Good Web Apps & Sites 
+- 🔭 Because I’m currently building up my Portfolio & Resume
+- 🌱 I’m also learning Python
+- 💬 You can ask me about Web Design & Development 
+- 📫 Mail me to contact : arshadchowdhury46@gmail.com 
 
 ## Skills & Experience
 - HTML/CSS/JavaScript
@@ -9,13 +15,6 @@
 - Python
 
 ### I’m excited to parlay my experience in Web Development to a Junior Developer position.
-
-## More Info
-- 👯 Looking to collaborate on Good Web Apps & Sites 
-- 🔭 Because I’m currently building up my Portfolio & Resume
-- 🌱 I’m also learning Python
-- 💬 You can ask me about Web Design & Development 
-- 📫 Mail me to contact : arshadchowdhury46@gmail.com 
 
 ![I am a Web Designer & Developer](https://github.com/ArshadChowdhury/ArshadChowdhury/blob/main/readme_banner.jpg?raw=true)
 [![ArshadChowdhury's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshadchowdhury)](https://github.com/arshadchowdhury/github-readme-stats)
