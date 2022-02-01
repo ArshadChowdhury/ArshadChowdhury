@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Arshad
 #### I am a Web Designer & Developer
-![I am a Web Designer & Developer](https://image.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=740)
+![I am a Web Designer & Developer](https://raw.githubusercontent.com/ArshadChowdhury/ArshadChowdhury/main/web_dev_banner.webp)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
