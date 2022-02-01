@@ -8,6 +8,8 @@
 - MongoDB
 - Python
 
+### I’m excited to parlay my experience in Web Development to a Junior Developer position.
+
 ## More Info
 - 👯 Looking to collaborate on Good Web Apps & Sites 
 - 🔭 Because I’m currently building up my Portfolio & Resume
