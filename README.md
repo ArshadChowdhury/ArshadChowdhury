@@ -1,4 +1,4 @@
-# Arshad - A Web Designer & Developer
+# A Web Designer & Developer
 
 
 ### My thirst for knowledge cannot be quenched! - **Rubick**
@@ -9,11 +9,11 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on my Portfolio & Resume 
-- 🌱 I’m currently learning Python 
-- 👯 I’m looking to collaborate on Good Web Apps & Sites 
-- 💬 Ask me about Web Design & Development 
-- 📫 How to reach me: arshadchowdhury46@gmail.com 
+- 👯 Looking to collaborate on Good Web Apps & Sites 
+- 🔭 Because I’m currently building up my Portfolio & Resume
+- 🌱 I’m also learning Python
+- 💬 You can ask me about Web Design & Development 
+- 📫 Mail me to contact : arshadchowdhury46@gmail.com 
 
 
 [![ArshadChowdhury's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshadchowdhury)](https://github.com/arshadchowdhury/github-readme-stats)
