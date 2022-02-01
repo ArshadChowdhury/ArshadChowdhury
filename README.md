@@ -1,4 +1,4 @@
-# Hello There, I'm Arshad 🤗
+# Hello There, I'm Arshad
 ## A Web Designer & Developer 💻
 
 
