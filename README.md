@@ -3,7 +3,11 @@
 
 
 
-Skills: REACT / JS / HTML / CSS
+## Skills & Experience
+- HTML/CSS/JavaScript
+- React.JS
+- Node.JS
+- MongoDB
 
 - 👯 Looking to collaborate on Good Web Apps & Sites 
 - 🔭 Because I’m currently building up my Portfolio & Resume
