@@ -1,6 +1,5 @@
 # Md. Arshad
-<hr>
-## A Web Designer & Developer
+<hr>## A Web Designer & Developer
 
 
 ### My thirst for knowledge cannot be quenched! - **Rubick**
