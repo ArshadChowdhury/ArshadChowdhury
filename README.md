@@ -1,5 +1,4 @@
-# 🤗 Hello There, I'm Md. Arshad
-<hr>
+# 🤗 Hello There, I'm Arshad
 ## A Web Designer & Developer
 
 
