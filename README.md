@@ -1,13 +1,12 @@
 # I'm Arshad
 ## A Web Designer & Developer 💻
 
-
-
 ## Skills & Experience
 - HTML/CSS/JavaScript
 - React.JS
 - Node.JS
 - MongoDB
+- Python
 
 ## More Info
 - 👯 Looking to collaborate on Good Web Apps & Sites 
