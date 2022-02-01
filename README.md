@@ -1,4 +1,4 @@
-# I'm Arshad A Web Designer & Developer 💻
+# I'm Arshad, A Web Designer & Developer 💻
 
 
 ## Skills & Experience
