@@ -16,7 +16,7 @@
 - MongoDB
 - Python
 
-### I have almost 1 year of coding experience and now I’m excited to parlay my experience in Web Development to a Junior Developer position.
+### I almost have 1 year of development experience & now I’m excited to parlay my experience into a Junior Developer position.
 [![ArshadChowdhury's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshadchowdhury)](https://github.com/arshadchowdhury/github-readme-stats)
 
 
