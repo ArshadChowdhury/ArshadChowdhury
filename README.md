@@ -2,7 +2,7 @@
 
 ## Little About Me
 - 👯 I'm looking to collaborate on Good Web Apps & Sites 
-- 🔭 because I’m currently building up my Portfolio & Resume.
+- 🔭 I’m currently building up my Portfolio & Resume.
 - 🌱 I’m also learning PHP.
 - 💬 You can ask me about Web Design & Development.
 - 💰 Open to all kinds of work from home. 
