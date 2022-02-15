@@ -3,7 +3,7 @@
 ## Little About Me
 - 👯 I'm looking to collaborate on Good Web Apps & Sites 
 - 🔭 I’m currently building up my Portfolio & Resume.
-- 🌱 I’m also learning PHP.
+- 🌱 I’m also learning Python.
 - 💬 You can ask me about Web Design & Development.
 - 💰 Open to all kinds of work from home. 
 - 📫 Mail me to contact : arshadchowdhury46@gmail.com
