@@ -1,6 +1,6 @@
 # 👋 Hey I'm Arshad, A Web Designer & Developer 💻
 
-## Little About Me
+## Some Info About Me
 - 👯 I'm looking to collaborate on Good Web Apps & Sites 
 - 🔭 I’m currently building up my Portfolio & Resume.
 - 🌱 I’m also learning Python.
