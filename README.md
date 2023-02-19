@@ -3,20 +3,21 @@
 ## Some Info About Me
 - 👯 I'm looking to collaborate on Good Web Apps & Sites 
 - 🔭 I’m currently building up my Portfolio & Resume.
-- 🌱 I’m also learning Python.
+- 🌱 I’m also learning C++.
 - 💬 You can ask me about Web Design & Development.
 - 💰 Open to all kinds of work from home. 
 - 📫 Mail me to contact : arshadchowdhury46@gmail.com
 
 
 ## Skills & Experience
+- C++
+- Python
 - HTML/CSS/JavaScript
 - jQuery
 - React.JS
 - Node.JS
 - MongoDB
 - Postgres
-- Python
 
 ### I have almost 2 years of development experience & am excited to parlay that into a Junior Developer position in a company
 [![ArshadChowdhury's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshadchowdhury)](https://github.com/arshadchowdhury/github-readme-stats)
