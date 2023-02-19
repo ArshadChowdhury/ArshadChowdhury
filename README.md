@@ -2,7 +2,7 @@
 
 ## Some Info About Me
 - 👯 I'm looking to collaborate on Good Web Apps & Sites 
-- 🔭 I’m currently building up my Portfolio & Resume.
+- 🔭 I’m currently building up my Problem Solving Skills.
 - 🌱 I’m also learning C++.
 - 💬 You can ask me about Web Design & Development.
 - 💰 Open to all kinds of work from home. 
@@ -12,7 +12,8 @@
 ## Skills & Experience
 - C++
 - Python
-- HTML/CSS/JavaScript
+- JavaScript
+- HTML/CSS/SCSS/Tailwind
 - jQuery
 - React.JS
 - Node.JS
