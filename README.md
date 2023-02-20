@@ -12,7 +12,7 @@
 ## Skills & Experience
 - HTML/CSS/SCSS/Tailwind
 - JavaScript
-- C++
+- C++ (learning now)
 - Python
 - jQuery
 - React.JS
