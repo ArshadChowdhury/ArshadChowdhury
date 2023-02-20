@@ -10,10 +10,10 @@
 
 
 ## Skills & Experience
+- HTML/CSS/SCSS/Tailwind
+- JavaScript
 - C++
 - Python
-- JavaScript
-- HTML/CSS/SCSS/Tailwind
 - jQuery
 - React.JS
 - Node.JS
