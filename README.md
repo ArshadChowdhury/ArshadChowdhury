@@ -3,7 +3,7 @@
 ## Some Info About Me
 - 👯 I'm looking to collaborate on Good Web Apps & Sites 
 - 🔭 I’m currently building up my Problem Solving Skills.
-- 🌱 I’m also learning C++.
+- 🌱 I’m also learning C++ & php.
 - 💬 You can ask me about Web Design & Development.
 - 💰 Open to all kinds of work from home. 
 - 📫 Mail me to contact : arshadchowdhury46@gmail.com
