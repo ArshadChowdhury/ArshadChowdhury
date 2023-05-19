@@ -18,7 +18,7 @@
 - React.JS
 - Node.JS
 - MongoDB
-- Postgres
+- PostgreSQL
 
 ### I have almost 2 years of development experience & am excited to parlay that into a Junior Developer position in a company
 [![ArshadChowdhury's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshadchowdhury)](https://github.com/arshadchowdhury/github-readme-stats)
