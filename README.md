@@ -11,13 +11,11 @@
 
 ## Skills & Experience
 - HTML/CSS/SCSS/Tailwind
-- JavaScript
-- React.JS
-- jQuery
-- Node.JS
+- JavaScript & jQuery
+- React.JS & Next.JS
+- Node.JS & Express.JS
 - C & C++ (learning now)
-- MongoDB
-- PostgreSQL
+- MongoDB & PostgreSQL
 - Python
 
 
