@@ -18,7 +18,7 @@
 - Python && C
 
 
-### I have almost 3 years of development experience & am excited to parlay that into a Junior Developer position in Repliq.
+### I have almost 3 years of development experience & am excited to parlay that experience into Software Developer position in Repliq.
 [![ArshadChowdhury's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshadchowdhury)](https://github.com/arshadchowdhury/github-readme-stats)
 
 
