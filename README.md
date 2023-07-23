@@ -1,7 +1,7 @@
-# 👋 Hey I'm Arshad, A Web Designer & Developer 💻
+# 👋 Hey I'm Arshad, A Software Developer 💻
 
 ## Some Info About Me
-- 👯 I'm looking to collaborate on Good Web Apps & Sites 
+- 👯 I'm looking to collaborate on Good Software Projects. 
 - 🔭 I’m currently building up my Problem Solving Skills & working as a frontend dev at Repliq
 - 🌱 I’m also learning C++
 - 💬 You can ask me about Web Design & Development.
@@ -14,9 +14,8 @@
 - JavaScript && jQuery
 - React.JS && Next.JS
 - Node.JS && Express.JS && Nest.JS
-- C
 - MongoDB && PostgreSQL
-- Python
+- Python && C
 
 
 ### I have almost 3 years of development experience & am excited to parlay that into a Junior Developer position in Repliq.
