@@ -3,7 +3,7 @@
 ## Some Info About Me
 - 👯 I'm looking to collaborate on Good Web Apps & Sites 
 - 🔭 I’m currently building up my Problem Solving Skills & working as a frontend dev at Repliq
-- 🌱 I’m also learning C & C++
+- 🌱 I’m also learning C++
 - 💬 You can ask me about Web Design & Development.
 - 💰 Open to all kinds of part time work from home. 
 - 📫 Mail me to contact : arshadchowdhury46@gmail.com
@@ -11,15 +11,15 @@
 
 ## Skills & Experience
 - HTML/CSS/SCSS/Tailwind
-- JavaScript & jQuery
-- React.JS & Next.JS
-- Node.JS & Express.JS
-- C & C++ (learning now)
-- MongoDB & PostgreSQL
+- JavaScript && jQuery
+- React.JS && Next.JS
+- Node.JS && Express.JS && Nest.JS
+- C
+- MongoDB && PostgreSQL
 - Python
 
 
-### I have almost 2 years of development experience & am excited to parlay that into a Junior Developer position in a company
+### I have almost 3 years of development experience & am excited to parlay that into a Junior Developer position in Repliq.
 [![ArshadChowdhury's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshadchowdhury)](https://github.com/arshadchowdhury/github-readme-stats)
 
 
