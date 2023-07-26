@@ -11,11 +11,11 @@
 
 ## Skills & Experience
 - HTML/CSS/SCSS/Tailwind
-- JavaScript && jQuery
-- React.JS && Next.JS
-- Node.JS && Express.JS && Nest.JS
-- MongoDB && PostgreSQL
-- Python && C
+- JavaScript & jQuery
+- React.JS & Next.JS
+- Node.JS, Express.JS & Nest.JS
+- MongoDB & PostgreSQL
+- Python & C
 
 
 ### I have almost 3 years of development experience & am excited to parlay that experience into Software Developer position in Repliq.
