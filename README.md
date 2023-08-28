@@ -1,7 +1,7 @@
 # 👋 Hey I'm Arshad, A Software Developer 💻
 
 ## Some Info About Me
-- 👯 I'm looking to collaborate on Good Software Projects
+- 👯 I'm looking to collaborate on Good Software Projects and Great Opportunities
 - 🔭 I’m currently building up my Problem Solving Skills & working as a frontend dev at Repliq
 - 🌱 I’m also learning C++
 - 💬 You can ask me about Web Design & Development.
