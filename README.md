@@ -6,7 +6,7 @@
 - 🌱 I’m also learning Redux
 - 💬 You can ask me about Web Design & Development.
 - 💰 Open to all kinds of part time work from home. 
-- 📫 Mail me to contact : arshadchowdhury46@gmail.com
+- 📫 Mail me to contact anytime : arshadchowdhury46@gmail.com
 
 
 ## Skills & Experience
