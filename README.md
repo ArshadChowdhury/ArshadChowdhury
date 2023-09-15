@@ -5,7 +5,7 @@
 - 🔭 I’m currently building up my Problem Solving Skills & working as a frontend dev at Repliq
 - 🌱 I’m also learning Redux
 - 💬 You can ask me about Web Design & Development.
-- 💰 Open to all kinds of part time work from home. 
+- 💰 Open to all kinds of work from home. 
 - 📫 Mail me to contact anytime : arshadchowdhury46@gmail.com
 
 
