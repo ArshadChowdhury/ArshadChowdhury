@@ -2,7 +2,7 @@
 
 ## Some Info About Me - 
 
-- 👯 I'm looking to collaborate on Good Software Projects and Great Opportunities Remotely
+- 👯 I'm looking to contibute in Good Open Source Software Projects and Great Opportunities Remotely
 - 🔭 I’m currently building up my Problem Solving Skills & working as a frontend dev at Repliq
 - 🌱 I’m also learning Redux
 - 💬 You can ask me about Web Design & Development.
