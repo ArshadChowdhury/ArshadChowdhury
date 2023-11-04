@@ -1,4 +1,4 @@
-# 👋 Hey I'm Arshad, A Software Developer 💻
+# 👋 Hey I'm Arshad, A Software Engineer 💻
 
 ## Some Info About Me - 
 
