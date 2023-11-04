@@ -19,7 +19,7 @@
 - Python & C
 
 
-### I have almost 3 years of development experience & am excited to parlay that experience into Software Developer position in Repliq.
+### I have almost 3 years of software engineering experience & am excited to parlay that experience in great open source projects.
 [![ArshadChowdhury's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshadchowdhury)](https://github.com/arshadchowdhury/github-readme-stats)
 
 
