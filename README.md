@@ -2,9 +2,9 @@
 
 ## Some Info About Me - 
 
-- 👯 I'm looking to contibute in Good Open Source Software Projects and Great Opportunities (Remote Only)
-- 🔭 I’m currently building up my Problem Solving Skills & working as a frontend dev at Repliq.
-- 🌱 I’m also learning Redux
+- 👯 I'm looking to contibute in Good Open Source Software Projects and Great Opportunities (Remote Only).
+- 🔭 I’m currently building up my problem solving skills & looking for remote work.
+- 🌱 I’m also learning Redux.
 - 💬 You can ask me about Web Design & Development.
 - 💰 Open to all kinds of work from home. 
 - 📫 Mail me to contact anytime : arshadchowdhury46@gmail.com
