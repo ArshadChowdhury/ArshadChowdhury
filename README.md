@@ -1,4 +1,4 @@
-# 👋 Hey I'm Arshad, A Software Engineer 💻
+# 👋 Hey I'm Arshad, A Self Taught Software Engineer 💻
 
 ## Some Info About Me - 
 
@@ -19,7 +19,7 @@
 - Python & C
 
 
-### I have almost 3 years of software engineering experience & am excited to parlay that experience in great open source projects.
+### I have almost 1 year of software engineering experience & am excited to parlay that experience in great open source projects.
 [![ArshadChowdhury's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshadchowdhury)](https://github.com/arshadchowdhury/github-readme-stats)
 
 
