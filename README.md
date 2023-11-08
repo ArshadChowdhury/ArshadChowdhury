@@ -1,6 +1,6 @@
 # [&#x200B;](#)👋 Hey I'm Arshad, A Self Taught Software Engineer 💻
 
-## [&#x200B;](#) Some Info About Me - 
+## [&#x200B;](#)Some Info About Me - 
 - 👯 I'm looking to contibute to open source software projects and job opportunities (Remote Only)
 - 🔭 I’m currently building up my problem solving skills & looking to contribute in open source.
 - 🌱 I’m also learning C / C++.
@@ -10,7 +10,7 @@
 - My youtube channel - https://www.youtube.com/@LearnCodingWithArshad
 
 
-## [&#x200B;](#) Skills & Experience
+## [&#x200B;](#)Skills & Experience
 - HTML/CSS/SCSS/Tailwind
 - JavaScript & jQuery
 - React.JS & Next.JS
