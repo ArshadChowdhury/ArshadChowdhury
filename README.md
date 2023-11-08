@@ -18,6 +18,8 @@
 - MongoDB & PostgreSQL
 - Python & C
 
+- [![An image of @arshadchowdhury23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arshadchowdhury23)](https://holopin.io/@arshadchowdhury23)
+
 
 ### I have almost 1 year of software engineering experience & am excited to parlay that experience in great open source projects.
 [![ArshadChowdhury's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshadchowdhury)](https://github.com/arshadchowdhury/github-readme-stats)
