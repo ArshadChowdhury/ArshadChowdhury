@@ -7,7 +7,6 @@
 - 💬 You can ask me about Web Design & Development.
 - 💰 Open to all kinds of work from home. 
 - 📫 Mail me to contact anytime : arshadchowdhury46@gmail.com
-- Or DM me in social media
 - My youtube channel - https://www.youtube.com/@LearnCodingWithArshad
 
 
