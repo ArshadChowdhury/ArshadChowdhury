@@ -2,7 +2,7 @@
 
 ## [&#x200B;](#)Some Info About Me - 
 - 👯 I'm looking to contibute to open source software projects and job opportunities (Remote Only)
-- 🔭 I’m currently building up my problem solving skills & looking to contribute in open source.
+- 🔭 I’m currently building up my problem solving skills & looking to contribute in open source projects.
 - 🌱 I’m also learning C / C++.
 - 💬 You can ask me about Web Design & Development.
 - 💰 Open to all kinds of work from home. 
@@ -21,7 +21,7 @@
 ![An image of @arshadchowdhury23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arshadchowdhury23)
 
 
-### [&#x200B;](#)I have almost 2 year of software engineering experience & am really excited to parlay that experience in open source projects.
+### [&#x200B;](#)I have almost 2 years of software engineering experience & am really excited to parlay that experience in open source projects.
 [![ArshadChowdhury's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshadchowdhury)](https://github.com/arshadchowdhury/github-readme-stats)
 
 
