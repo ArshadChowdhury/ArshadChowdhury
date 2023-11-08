@@ -1,4 +1,4 @@
-# [&#x200B;](#)👋 Hey I'm Arshad, A Self Taught Software Engineer 💻
+# [&#x200B;](#)👋 Hey I'm Arshad, A Passionate Software Engineer 💻
 
 ## [&#x200B;](#)Some Info About Me - 
 - 👯 I'm looking to contibute to open source software projects and job opportunities (Remote Only)
