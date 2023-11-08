@@ -1,6 +1,6 @@
 # 👋 Hey I'm Arshad, A Self Taught Software Engineer 💻
 
-[![An image of @arshadchowdhury23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arshadchowdhury23)](https://holopin.io/@arshadchowdhury23)
+[![An image of @arshadchowdhury23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arshadchowdhury23)]
 
 ## Some Info About Me - 
 
