@@ -1,9 +1,6 @@
 # 👋 Hey I'm Arshad, A Self Taught Software Engineer 💻
 
-![An image of @arshadchowdhury23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arshadchowdhury23)
-
 ## Some Info About Me - 
-
 - 👯 I'm looking to contibute in Good Open Source Software Projects and Great Job Opportunities (Remote Only).
 - 🔭 I’m currently building up my problem solving skills & looking to contribute to open source.
 - 🌱 I’m also learning Redux.
@@ -18,6 +15,8 @@
 - Node.JS, Express.JS & Nest.JS
 - MongoDB & PostgreSQL
 - Python & C
+
+![An image of @arshadchowdhury23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arshadchowdhury23)
 
 
 ### I have almost 1 year of software engineering experience & am excited to parlay that experience in great open source projects.
