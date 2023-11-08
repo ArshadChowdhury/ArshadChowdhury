@@ -1,12 +1,15 @@
 # [&#x200B;](#)👋 Hey I'm Arshad, A Self Taught Software Engineer 💻
 
 ## [&#x200B;](#) Some Info About Me - 
-- 👯 I'm looking to contibute in open source software projects and job opportunities (Remote Only)
+- 👯 I'm looking to contibute to open source software projects and job opportunities (Remote Only)
 - 🔭 I’m currently building up my problem solving skills & looking to contribute in open source.
-- 🌱 I’m also learning Redux.
+- 🌱 I’m also learning C / C++.
 - 💬 You can ask me about Web Design & Development.
 - 💰 Open to all kinds of work from home. 
 - 📫 Mail me to contact anytime : arshadchowdhury46@gmail.com
+- Or DM me in social media
+- My youtube channel - https://www.youtube.com/@LearnCodingWithArshad
+
 
 ## [&#x200B;](#) Skills & Experience
 - HTML/CSS/SCSS/Tailwind
