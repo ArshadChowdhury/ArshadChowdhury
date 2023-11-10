@@ -1,7 +1,7 @@
 # [&#x200B;](#)👋 Hey I'm Arshad, A Passionate Software Engineer 💻
 
 ## [&#x200B;](#)Some Info About Me - 
-- 👯 I'm looking to contibute to open source software projects and job opportunities (Remote Only)
+- 👯 I'm looking to contibute to open source software projects and job opportunities. (Remote Only)
 - 🔭 I’m currently building up my problem solving skills & looking to contribute in open source projects.
 - 🌱 I’m also learning C / C++.
 - 💬 You can ask me about Web Design & Development.
