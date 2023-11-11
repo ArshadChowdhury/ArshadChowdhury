@@ -6,7 +6,7 @@
 - 🌱 I’m also learning C / C++.
 - 💬 You can ask me about Web Design & Development.
 - 💰 Open to all kinds of work from home. 
-- 📫 Mail me to contact anytime : arshadchowdhury46@gmail.com
+- 📫 Mail me to contact anytime - arshadchowdhury46@gmail.com
 - My youtube channel - https://www.youtube.com/@LearnCodingWithArshad
 
 
