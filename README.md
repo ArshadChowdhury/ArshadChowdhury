@@ -11,7 +11,7 @@
 
 
 ## [&#x200B;](#)Skills & Experience
-- HTML/CSS/SCSS/Tailwind
+- HTML/CSS/SCSS/Tailwind CSS
 - JavaScript & jQuery
 - React.JS & Next.JS
 - Node.JS, Express.JS & Nest.JS
