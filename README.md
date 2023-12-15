@@ -17,7 +17,7 @@
 - Node.JS, Express.JS & Nest.JS
 - Php / Wordpress
 - MongoDB & PostgreSQL
-- Python, C & C++
+- Python, C & C++ (basics)
 
 ![An image of @arshadchowdhury23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arshadchowdhury23)
 
