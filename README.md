@@ -1,7 +1,7 @@
 # [&#x200B;](#)👋 Hey I'm Arshad, A Passionate Full Stack Developer 💻
 
 ## [&#x200B;](#)Some Info About Me - 
-- 👯 I'm looking to contibute to open source and freelancing projects.
+- 👯 I'm looking to contibute to open source projects.
 - 🔭 I’m currently building up my problem solving skills & looking to contribute in open source projects.
 - 🌱 I’m also learning C / C++ to understand low level programming topics.
 - 💬 You can ask me about Web Design & Development.
