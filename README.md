@@ -2,15 +2,16 @@
 
 ## [&#x200B;](#)Some Info About Me - 
 
-- Portfolio link - https://arshadchowdhury.vercel.app/
-- YouTube channel link - https://www.youtube.com/@LearnCodingWithArshad
-- Codewars profile link - https://www.codewars.com/users/Arshad23
-- 📫 Mail me to contact anytime - arshadchowdhury46@gmail.com
 - 👯 I'm looking to contibute to open source projects.
 - 🔭 I’m currently building up my problem solving skills & looking to contribute in open source projects.
 - 🌱 I’m also learning C / C++ to understand low level programming mechanisms.
-- 💰 Open to all kinds of work from home. 
 - 💬 You can ask me about Web Design, Development and Programming in general.
+- 💰 Open to all kinds of work from home. 
+- 📫 Mail me to contact anytime - arshadchowdhury46@gmail.com
+- Portfolio link - https://arshadchowdhury.vercel.app/
+- Codewars profile link - https://www.codewars.com/users/Arshad23
+- YouTube channel link - https://www.youtube.com/@LearnCodingWithArshad
+
 
 
 ## [&#x200B;](#)Skills & Experience
