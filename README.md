@@ -1,10 +1,7 @@
 # [&#x200B;](#)👋 Hey I'm Arshad, A Passionate Full Stack Developer 💻
 
-## Portfolio - https://arshadchowdhury.vercel.app/
 
-## YouTube channel - https://www.youtube.com/@LearnCodingWithArshad
-
-## [&#x200B;](#)Some Facts About Me - 
+## [&#x200B;](#)About Me - 
 
 - 👯 I'm looking to contibute to open source / great projects.
 - 🔭 Currently building up my problem solving skills & looking to contribute in open source projects.
