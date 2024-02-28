@@ -5,7 +5,7 @@
 
 - 👯 I'm looking to contibute to open source / great projects.
 - 🔭 Currently building up my problem solving skills & looking to contribute in open source projects.
-- 🌱 Also learning Angular and OOP concepts in detail.
+- 🌱 Also learning Angular and OOPs concepts in detail.
 - 💬 You can ask me anything about Web Design, Development and Programming in general.
 - 💰 Open to all kinds of work from home. 
 - 📫 Mail me to contact anytime - arshadchowdhury46@gmail.com
