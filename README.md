@@ -22,7 +22,7 @@
 ![An image of @arshadchowdhury23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arshadchowdhury23)
 
 
-### [&#x200B;](#)I have almost 3 years of software development experience & I am really excited to parlay that experience in amazing projects.
+### [&#x200B;](#)I have almost 3 years of software development experience & am really excited to parlay that experience in amazing projects.
 [![ArshadChowdhury's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshadchowdhury)](https://github.com/arshadchowdhury/github-readme-stats)
 
 
