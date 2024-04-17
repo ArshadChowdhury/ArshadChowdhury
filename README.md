@@ -17,7 +17,7 @@
 - Node.JS, Express.JS & Nest.JS
 - MongoDB & PostgreSQL
 - Python (Basics)
-- C++ (Still learning for DSA & problem solving)
+- C++ (Still learning with DSA & problem solving)
 
 ![An image of @arshadchowdhury23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arshadchowdhury23)
 
