@@ -15,7 +15,7 @@
 - JavaScript & jQuery
 - React.JS & Next.JS
 - Node.JS, Express.JS & Nest.JS
-- MongoDB & PostgreSQL
+- MongoDB, MySQL & PostgreSQL
 - Python (Basic)
 - C++ (Still learning with DSA & problem solving)
 
