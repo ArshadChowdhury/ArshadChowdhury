@@ -4,7 +4,7 @@
 ## [&#x200B;](#)About Me - 
 
 - 👯 I'm looking to contibute to great projects.
-- 🔭 Currently working as a full stack dev at Tutors Finland Oy & working on my problem solving skills.
+- 🔭 Currently working as a Full Stack Developer at Tutors Finland Oy & working on my problem solving skills.
 - 🌱 Also learning Angular and OOP concepts in great detail.
 - 💬 You can ask me anything about Software Design, Development & Programming in general.
 - 💰 Open to all kinds of work from home. 
