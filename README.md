@@ -13,7 +13,7 @@
 ## [&#x200B;](#)Skills & Experience
 - HTML/CSS/SCSS/Tailwind
 - JavaScript & jQuery
-- React.JS & Next.JS
+- React.JS / Next.JS & Angular.
 - Node.JS, Express.JS & Nest.JS
 - MongoDB, MySQL & PostgreSQL
 - Python (Basic)
