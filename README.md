@@ -7,7 +7,7 @@
 - 🔭 Currently working as a Full Stack Developer at Tutors Finland Oy & working on my problem solving skills.
 - 🌱 Also learning Angular and OOP concepts in great detail.
 - 💬 You can ask me anything about Software Design, Development & Programming in general.
-- 💰 Open to all kinds of work from home. 
+- 💰 Open to all work from home. 
 - 📫 Mail me to contact anytime at - arshadchowdhury46@gmail.com
 
 ## [&#x200B;](#)Skills & Experience
