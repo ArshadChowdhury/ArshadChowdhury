@@ -1,7 +1,7 @@
 # [&#x200B;](#)👋 Hey I'm Arshad, A Passionate Full Stack Developer 💻
 
 
-## [&#x200B;](#)Little About Me - 
+## [&#x200B;](#)About Me - 
 
 - 👯 I'm looking to contibute in great projects.
 - 🔭 Currently working as a Full Stack Developer at Tutors Finland Oy & working on my problem solving skills.
