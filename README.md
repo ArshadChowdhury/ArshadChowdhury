@@ -16,7 +16,6 @@
 - React.JS / Next.JS & Angular.
 - Node.JS, Express.JS & Nest.JS
 - MongoDB, MySQL & PostgreSQL
-- Python (Basics)
 - C++ (Still learning with DSA & problem solving)
 
 ![An image of @arshadchowdhury23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arshadchowdhury23)
