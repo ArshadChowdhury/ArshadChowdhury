@@ -8,7 +8,7 @@
 - 🌱 Also learning Angular and OOP concepts in great details.
 - 💬 You can ask me anything about Software Design, Development & Programming in general.
 - 💰 Open to all work from home opportunities. 
-- 📫 Mail me to contact anytime at - arshadchowdhury46@gmail.com
+- 📫 Mail to contact me at - arshadchowdhury46@gmail.com
 
 ## [&#x200B;](#)Skills & Experience
 - HTML/CSS/SCSS/Tailwind
