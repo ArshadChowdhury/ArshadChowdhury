@@ -11,7 +11,7 @@
 - 📫 Mail to contact me at - arshadchowdhury46@gmail.com
 
 ## [&#x200B;](#)Skills & Experience
-- HTML/CSS/SCSS/Tailwind
+- HTML/CSS/SCSS/Tailwind CSS
 - JavaScript & jQuery
 - React.JS / Next.JS & Angular.
 - Node.JS, Express.JS & Nest.JS
