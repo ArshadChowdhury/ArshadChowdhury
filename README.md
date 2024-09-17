@@ -22,7 +22,7 @@
 
 
 ### [&#x200B;](#)I have almost 3 years of software development experience & am really excited to parlay that experience in great projects.
-[![ArshadChowdhury's GitHub stats](<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ArshadChowdhury&" alt="ArshadChowdhury" />)
+[![ArshadChowdhury's GitHub stats]<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ArshadChowdhury&" alt="ArshadChowdhury" />
 
 
 
