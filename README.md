@@ -27,7 +27,7 @@
   <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=ArshadChowdhury&show_icons=true&theme=synthwave&include_all_commits=true&line_height=30&text_bold=true&rank_icon=github" />
 </a>
 <a href="https://github.com/ArshadChowdhury/convoychat">
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArshadChowdhury&langs_count=6&layout=donut" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArshadChowdhury&langs_count=8&layout=donut" />
 </a>
 
 
