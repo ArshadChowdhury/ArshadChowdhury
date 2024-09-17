@@ -27,15 +27,11 @@
 
 <br />
 
-<a href="https://github.com/ArshadChowdhury/github-readme-stats">
   <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=ArshadChowdhury&show_icons=true&theme=onedark&include_all_commits=true&line_height=30&text_bold=true&rank_icon=github&card_width=350" />
-</a>
 
 <br />
 
-<a href="https://github.com/ArshadChowdhury/convoychat">
   <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArshadChowdhury&langs_count=4&layout=donut&card_width=350&theme=onedark&text_bold=true" />
-</a>
 
 <br />
 
