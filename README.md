@@ -24,7 +24,7 @@
 ### [&#x200B;](#)I have almost 3 years of software development experience & am really excited to parlay that experience in great projects.
 
 <a href="https://github.com/ArshadChowdhury/github-readme-stats">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=ArshadChowdhury&show_icons=true&theme=Gradient&include_all_commits=true&line_height=30&text_bold=true&rank_icon=github" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=ArshadChowdhury&show_icons=true&theme=gradient&include_all_commits=true&line_height=30&text_bold=true&rank_icon=github" />
 </a>
 <a href="https://github.com/ArshadChowdhury/convoychat">
   <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArshadChowdhury&langs_count=4&layout=donut&card_width=350" />
