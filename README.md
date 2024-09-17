@@ -1,5 +1,15 @@
 # [&#x200B;](#)👋 Hey I'm Arshad, A Passionate Full Stack Developer 💻
 
+![An image of @arshadchowdhury23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arshadchowdhury23)
+
+## [&#x200B;](#)Skills
+- HTML/CSS/SCSS/Tailwind CSS
+- JavaScript & jQuery
+- React.JS / Next.JS & Angular.
+- Node.JS, Express.JS & Nest.JS
+- MongoDB, MySQL & PostgreSQL
+- C++ (Still learning with DSA & Problem Solving)
+
 
 ## [&#x200B;](#)About Me - 
 
@@ -10,7 +20,6 @@
 - 💰 Open to all work from home opportunities. 
 - 📫 Mail to contact me at - arshadchowdhury46@gmail.com
 
-![An image of @arshadchowdhury23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arshadchowdhury23)
 
 ### [&#x200B;](#)I have almost 3 years of software development experience & am really excited to parlay that experience in great projects.
 
@@ -22,15 +31,6 @@
 <a href="https://github.com/ArshadChowdhury/convoychat">
   <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArshadChowdhury&langs_count=4&layout=donut&card_width=350&theme=onedark&text_bold=true" />
 </a>
-
-## [&#x200B;](#)Skills
-- HTML/CSS/SCSS/Tailwind CSS
-- JavaScript & jQuery
-- React.JS / Next.JS & Angular.
-- Node.JS, Express.JS & Nest.JS
-- MongoDB, MySQL & PostgreSQL
-- C++ (Still learning with DSA & Problem Solving)
-
 
 <br />
 
