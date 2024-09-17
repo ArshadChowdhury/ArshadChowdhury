@@ -20,12 +20,9 @@
 
 ![An image of @arshadchowdhury23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arshadchowdhury23)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArshadChowdhury&repo=github-readme-stats)](https://github.com/ArshadChowdhury/github-readme-stats)
-
 
 ### [&#x200B;](#)I have almost 3 years of software development experience & am really excited to parlay that experience in great projects.
-[![Arshad's Github stats](https://github-readme-stats.vercel.app/api?username=ArshadChowdhury&show_icons=true&theme=radical&include_all_commits=true&line_height=35&text_bold=true)](https://github.com/ArshadChowdhury/github-readme-stats)
-
+[![Arshad's Github stats](https://github-readme-stats.vercel.app/api?username=ArshadChowdhury&show_icons=true&theme=dracula&include_all_commits=true&line_height=35&text_bold=true)](https://github.com/ArshadChowdhury/github-readme-stats)
 
 
 
