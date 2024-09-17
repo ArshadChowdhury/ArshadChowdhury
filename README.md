@@ -33,6 +33,8 @@
 </a>
 
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ArshadChowdhury)](https://github.com/ArshadChowdhury/github-readme-stats)
+
 
 
 
