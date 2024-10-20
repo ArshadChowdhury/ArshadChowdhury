@@ -19,7 +19,7 @@
 - React.JS / Next.JS & Angular.
 - Node.JS, Express.JS & Nest.JS
 - MongoDB, MySQL & PostgreSQL
-- C++ (Still learning with Problem Solving)
+- C++ (Learning with Problem Solving)
 
 
 ### [&#x200B;](#)I have almost 3 years of software development experience & am really excited to parlay that experience in great projects.
