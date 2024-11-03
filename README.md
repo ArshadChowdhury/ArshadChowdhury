@@ -6,7 +6,7 @@
 
 ## [&#x200B;](#)About Me - 
 
-- 👯 I'm looking to contibute in all kind of great projects.
+- 👯 I'm looking to contibute in all kind of web based projects.
 - 🔭 Currently working as a Full Stack Developer at Tutors Finland Oy & working on my problem solving skills.
 - 🌱 Also learning Angular and OOP concepts in great details.
 - 💬 You can ask me anything about Software Design, Development & Programming in general.
