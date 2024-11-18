@@ -1,10 +1,13 @@
 # 👋 Hey, I'm Arshad, a Passionate Full Stack Developer 💻
 
 <br />
+<br />
 
 ![An image of @arshadchowdhury23's Holopin badges, which links to view their full Holopin profile](https://holopin.me/arshadchowdhury23)
 
 ## About Me
+
+<br />
 
 - 👯 I'm looking to contribute to all kinds of web-based projects.  
 - 🔭 Currently working as a Full Stack Developer at Tutors Finland Oy while sharpening my problem-solving skills.  
@@ -15,12 +18,16 @@
 
 ## Skills  
 
+<br />
+
 - **Frontend**: HTML/CSS/SCSS/Tailwind CSS, JavaScript, jQuery, React.js/Next.js, Angular  
 - **Backend**: Node.js, Express.js, Nest.js  
 - **Databases**: MongoDB, MySQL, PostgreSQL  
 - **Others**: C++ (Learning through problem-solving)  
 
 ## Experience  
+
+<br />
 
 I have nearly **3 years of software development experience** and am eager to bring my expertise to exciting new projects!  
 
@@ -36,9 +43,28 @@ I have nearly **3 years of software development experience** and am eager to bri
 
 ## Let's Connect  
 
-[<img src='https://cdn.simpleicons.org/weblate/black/white' alt='website' height='40'>](https://arshadchowdhury.vercel.app/)  
-[<img src='https://cdn.simpleicons.org/linkedin/black/white' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/mohammed-arshad-67920b213/)  
-[<img src='https://cdn.simpleicons.org/facebook/black/white' alt='Facebook' height='40'>](https://www.facebook.com/arshad.chowdhury23/)  
-[<img src='https://cdn-icons-png.flaticon.com/512/124/124021.png' alt='Twitter' height='40'>](https://twitter.com/Arshaaaaaaaaaad)  
-[<img src='https://cdn.simpleicons.org/codepen/black/white' alt='CodePen' height='40'>](https://codepen.io/Serial_killer_00)  
-[<img src='https://cdn.simpleicons.org/codesandbox/black/white' alt='CodeSandbox' height='40'>](https://codesandbox.io/u/ArshadChowdhury)  
+<div align="center">
+  <a href="https://arshadchowdhury.vercel.app/">
+    <img src="https://cdn.simpleicons.org/weblate/black/white" alt="Website" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mohammed-arshad-67920b213/">
+    <img src="https://cdn.simpleicons.org/linkedin/black/white" alt="LinkedIn" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/arshad.chowdhury23/">
+    <img src="https://cdn.simpleicons.org/facebook/black/white" alt="Facebook" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/Arshaaaaaaaaaad">
+    <img src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="Twitter" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://codepen.io/Serial_killer_00">
+    <img src="https://cdn.simpleicons.org/codepen/black/white" alt="CodePen" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://codesandbox.io/u/ArshadChowdhury">
+    <img src="https://cdn.simpleicons.org/codesandbox/black/white" alt="CodeSandbox" height="40" />
+  </a>
+</div>
