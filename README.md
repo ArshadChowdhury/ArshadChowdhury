@@ -31,7 +31,7 @@
 
 <br />
 
-I have nearly **3 years of software development experience** and am eager to bring my expertise to exciting new projects!  
+I have **3 years of software development experience** and am eager to bring my expertise to exciting new projects!  
 
 <br />
 
