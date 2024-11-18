@@ -11,9 +11,9 @@
 
 <br />
 
-- 👯 I'm looking to contribute to all kinds of web-based projects.  
+- 👯 I'm looking to contribute to all kinds of exciting projects.  
 - 🔭 Currently working as a Full Stack Developer at Tutors Finland Oy while sharpening my problem-solving skills.  
-- 🌱 Learning Angular and diving deeper into OOP concepts.  
+- 🌱 Diving deeper into OOP concepts & learning Angular + Nest.  
 - 💬 Ask me anything about software design, development, and programming in general!  
 - 💰 Open to remote work opportunities.  
 - 📫 Contact me at **arshadchowdhury46@gmail.com**  
@@ -46,7 +46,7 @@ I have nearly **3 years of software development experience** and am eager to bri
 ## Let's Connect  
 
 <div align="left">
-  <a target="_blank" href="https://arshadchowdhury.vercel.app/">
+  <a href="https://arshadchowdhury.vercel.app/">
     <img src="https://cdn.simpleicons.org/weblate/black/white" alt="Website" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
