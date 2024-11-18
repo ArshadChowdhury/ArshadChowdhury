@@ -1,4 +1,6 @@
-# 👋 Hey, I'm Arshad, a Passionate Full Stack Developer 💻
+<div style="text-decoration: none;">
+  <h1>👋 Hey, I'm Arshad, a Passionate Full Stack Developer 💻</h1>
+</div>
 
 <br />
 <br />
@@ -43,7 +45,7 @@ I have nearly **3 years of software development experience** and am eager to bri
 
 ## Let's Connect  
 
-<div align="center">
+<div align="left">
   <a href="https://arshadchowdhury.vercel.app/">
     <img src="https://cdn.simpleicons.org/weblate/black/white" alt="Website" height="40" />
   </a>
