@@ -46,7 +46,7 @@ I have nearly **3 years of software development experience** and am eager to bri
 ## Let's Connect  
 
 <div align="left">
-  <a href="https://arshadchowdhury.vercel.app/">
+  <a target="_blank" href="https://arshadchowdhury.vercel.app/">
     <img src="https://cdn.simpleicons.org/weblate/black/white" alt="Website" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
