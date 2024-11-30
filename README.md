@@ -24,7 +24,7 @@
 
 - **Frontend**: HTML/CSS/SCSS/Tailwind CSS, JavaScript, jQuery, React.js/Next.js, Angular  
 - **Backend**: Node.js, Express.js, Nest.js  
-- **Databases**: MongoDB, MySQL, PostgreSQL  
+- **Databases**: MongoDB, MySQL, PostgreSQL and few ORM's like typeorm.  
 - **Others**: C++ (Learning through problem-solving)  
 
 ## Experience  
