@@ -1,5 +1,5 @@
 <div style="text-decoration: none;">
-  <h1>👋 Hey, I'm Arshad, a Passionate Full Stack Developer 💻</h1>
+  <h1>👋 Hey I'm Arshad, a Passionate Full Stack Developer 💻</h1>
 </div>
 
 <br />
