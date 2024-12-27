@@ -12,7 +12,7 @@
 <br />
 
 - 👯 I'm looking to contribute to exciting projects.  
-- 🔭 Currently working as a Full Stack Developer at Tutors Finland Oy while sharpening my problem-solving skills.  
+- 🔭 Currently working as a Full Stack Developer at Tutors Finland Oy and sharpening my problem-solving skills.  
 - 🌱 Diving deeper into OOP concepts & learning Angular + Nest.  
 - 💬 Ask me anything about software design, development, and programming in general!  
 - 💰 Open to remote work opportunities.  
