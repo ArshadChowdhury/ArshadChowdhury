@@ -15,7 +15,7 @@
 - 🔭 Currently I'm sharpening my problem solving skills & building some personal projects.  
 - 🌱 Diving deeper into OOP concepts & learning Angular + Nest.  
 - 💬 Ask me anything about software design, development, and programming in general!  
-- 💰 Open to great remote work opportunities.  
+- 💰 Open to great work opportunities.  
 - 📫 Contact me at **arshadchowdhury46@gmail.com**  
 
 ## Skills  
@@ -24,7 +24,7 @@
 
 - **Frontend**: HTML/CSS/SCSS/Tailwind CSS, JavaScript, jQuery, React.js/Next.js, Angular  
 - **Backend**: Node.js, Express.js, Nest.js  
-- **Databases**: MongoDB, MySQL, PostgreSQL and few ORM's like typeorm.  
+- **Databases**: MongoDB, MySQL, PostgreSQL and few ORM's like typeorm, prisma etc.  
 - **Others**: C / C++ (Learning through problem-solving)  
 
 ## Experience  
