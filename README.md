@@ -7,7 +7,7 @@
 
 ![An image of @arshadchowdhury23's Holopin badges, which links to view their full Holopin profile](https://holopin.me/arshadchowdhury23)
 
-## Little About Me
+## About Me
 
 <br />
 
