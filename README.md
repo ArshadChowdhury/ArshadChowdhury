@@ -15,7 +15,7 @@
 - 🔭 Currently I'm sharpening my problem solving skills & building some personal projects.  
 - 🌱 Diving deeper into OOP concepts & learning Angular + Nest.  
 - 💬 Ask me anything about software design, development, and programming in general!  
-- 💰 Open to great work opportunities.  
+- 💰 Open to all kinds of remote work opportunities.  
 - 📫 Contact me at **arshadchowdhury46@gmail.com**  
 
 ## Skills  
