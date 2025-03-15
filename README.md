@@ -12,7 +12,7 @@
 <br />
 
 - 👯 I'm looking to contribute to exciting projects.  
-- 🔭 Currently I'm sharpening my problem solving skills, learning more about blockchain & building some personal projects.  
+- 🔭 Currently I'm sharpening my problem solving skills, learning about smart contracts, blockchain & building some personal projects.  
 - 🌱 Diving deeper into OOP concepts & learning Angular + Nest.  
 - 💬 Ask me anything about software design, development, and programming in general!  
 - 💰 Open to all kinds of remote work opportunities.  
