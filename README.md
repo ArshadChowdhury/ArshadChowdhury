@@ -11,7 +11,7 @@
 
 <br />
 
-- 👯 I'm looking to contribute to exciting projects in blockchain technology.  
+- 👯 I'm looking to contribute to exciting projects in web3 & blockchain technology.  
 - 🔭 Currently I'm sharpening my problem solving skills, learning about smart contracts, blockchain & web3.  
 - 🌱 Diving deeper into Blockchain technology & Web3.  
 - 💬 Ask me anything about software design, development, and programming in general!  
