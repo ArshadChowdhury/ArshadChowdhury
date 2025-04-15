@@ -11,7 +11,7 @@
 
 <br />
 
-- 👯 I'm looking to work in exciting projects based in web3 & blockchain technology.  
+- 👯 I'm looking to work in exciting projects.  
 - 🔭 Currently I'm sharpening my problem solving skills, learning about smart contracts, blockchain, web3 & Angular.  
 - 🌱 Diving deeper into Blockchain technology & Web3.  
 - 💬 Ask me anything about software design, development, and programming in general!  
