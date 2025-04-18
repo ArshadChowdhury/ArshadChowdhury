@@ -11,8 +11,8 @@
 
 <br />
 
-- 👯 I'm looking to relocate to a place where I can grow professionally and find more rewarding opportunities.
-- 🔭 Currently I'm sharpening my problem solving skills, learning about smart contracts, blockchain, web3 & Angular.  
+- 👯 I'm looking for new role as a full stack developer.
+- 🔭 Currently I'm sharpening my problem solving skills, learning about smart contracts, blockchain & web3.  
 - 🌱 Diving deeper into Blockchain technology & Web3.  
 - 💬 Ask me anything about software design, development, and programming in general!  
 - 💰 Open to all kinds of remote work opportunities (job / project).  
