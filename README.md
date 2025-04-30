@@ -22,7 +22,7 @@
 
 <br />
 
-- **Frontend**: HTML/CSS/SCSS/Tailwind CSS, JavaScript, jQuery, React.js/Next.js, Angular  
+- **Frontend**: HTML/CSS/SCSS/Tailwind CSS, JavaScript, React.js/Next.js, Angular  
 - **Backend**: Node.js, Express.js, Nest.js  
 - **Databases**: MongoDB, MySQL, PostgreSQL and few ORM's like typeorm, prisma etc.  
 - **Others**: C / C++ (Learning through problem-solving)  
