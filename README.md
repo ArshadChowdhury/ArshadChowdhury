@@ -12,7 +12,7 @@
 <br />
 
 - 👯 I'm looking for new role as a full stack software developer.
-- 🔭 Currently I'm sharpening my problem solving skills, learning about smart contracts, blockchain & web3.  
+- 🔭 Currently I'm sharpening my problem solving skills, learning about smart contracts, blockchain & web3 stuff.  
 - 🌱 Diving deeper into Blockchain technology & Web3.  
 - 💬 Ask me anything about software design, development, and programming in general!  
 - 💰 Open to all kinds of remote work opportunities.  
