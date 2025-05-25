@@ -12,7 +12,7 @@
 <br />
 
 - 👯 I'm looking for new role as a full stack software developer.
-- 🔭 Currently I'm sharpening my problem solving skills, learning about smart contracts, blockchain & web3 stuff.  
+- 🔭 Currently I'm sharpening my problem solving skills, learning about smart contracts, blockchain & more web3 stuff.  
 - 🌱 Diving deeper into Blockchain technology & Web3.  
 - 💬 Ask me anything about software design, development, and programming in general!  
 - 💰 Open to all kinds of remote work opportunities.  
@@ -24,8 +24,8 @@
 
 - **Frontend**: HTML/CSS/SCSS/Tailwind CSS, JavaScript, React.js/Next.js, Angular  
 - **Backend**: Node.js, Express.js, Nest.js  
-- **Databases**: MongoDB, MySQL, PostgreSQL and few ORM's like typeorm, prisma etc.  
-- **Others**: C / C++ (Learning through problem-solving)  
+- **Databases**: MongoDB, MySQL, PostgreSQL etc.  
+- **Others**: C / C++ (Still learning through problem-solving)  
 
 ## Experience  
 
