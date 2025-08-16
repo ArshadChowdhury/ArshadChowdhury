@@ -12,9 +12,9 @@
 <br />
 
 - 👯 I'm looking for new role as a full stack software developer.
-- 🔭 Currently I'm sharpening my problem solving skills, learning about smart contracts, blockchain & more web3 stuff.  
-- 🌱 Diving deeper into Blockchain technology & Web3.  
-- 💬 Ask me anything about software design, development, and programming in general!  
+- 🔭 Currently I'm sharpening my problem solving skills by grinding leetcode.  
+- 🌱 Diving deeper into OOPS.  
+- 💬 Ask me anything about software design, development and programming in general!  
 - 💰 Open to all kinds of remote work opportunities.  
 - 📫 Contact me at **arshadchowdhury46@gmail.com**  
 
@@ -33,10 +33,6 @@
 
 I have **3 years of software development experience** and am eager to bring my expertise to exciting new projects!  
 
-<br />
-
-<img height="250" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArshadChowdhury&langs_count=4&layout=donut&card_width=350&theme=onedark&text_bold=tru" />  
-
 <br />  
 
 <img height="250" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArshadChowdhury&langs_count=4&layout=donut&card_width=350&theme=onedark&text_bold=true" />  
@@ -51,7 +47,7 @@ I have **3 years of software development experience** and am eager to bring my e
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mohammed-arshad-67920b213/">
-    <img src="https://cdn.simpleicons.org/linkedin/black/white" alt="LinkedIn" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/arshad.chowdhury23/">
@@ -68,5 +64,9 @@ I have **3 years of software development experience** and am eager to bring my e
   &nbsp;&nbsp;&nbsp;
   <a href="https://codesandbox.io/u/ArshadChowdhury">
     <img src="https://cdn.simpleicons.org/codesandbox/black/white" alt="CodeSandbox" height="40" />
+  </a>
+   &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/ArshadChowdhury/">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG3Ir9453MFZjzGK8jeX9en0kjW8igj-FTNg&s" alt="CodeSandbox" height="40" />
   </a>
 </div>
