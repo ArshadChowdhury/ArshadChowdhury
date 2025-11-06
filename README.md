@@ -12,8 +12,8 @@
 <br />
 
 - 👯 I'm looking for new role as a full stack software developer.
-- 🔭 Currently I'm sharpening my problem solving skills by grinding leetcode.  
-- 🌱 Diving deeper into OOPS.  
+- 🔭 Currently I'm learning Cloud Engineering.  
+- 🌱 Diving deeper into AWS/Terraform.  
 - 💬 Ask me anything about software design, development and programming in general!  
 - 💰 Open to all kinds of remote work opportunities.  
 - 📫 Contact me at **arshadchowdhury46@gmail.com**  
