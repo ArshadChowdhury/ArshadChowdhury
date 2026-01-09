@@ -1,25 +1,22 @@
+
+<br />
 <div style="text-decoration: none;">
   <h1>👋 Hey I'm Arshad, a Passionate Full Stack Developer 💻</h1>
 </div>
 
 <br />
-<br />
 
 ![An image of @arshadchowdhury23's Holopin badges, which links to view their full Holopin profile](https://holopin.me/arshadchowdhury23)
 
 ## About Me
-
 <br />
-
 I am a versatile Full-Stack Software Engineer with more than three years of experience crafting clean, user-centric web applications. My journey is defined by a deep-seated passion for problem-solving and a commitment to modern development practices.
 
 With a robust technical foundation across the entire stack, I specialize in the React/Next.js & Angular ecosystem for the frontend and Node.js/Express.js/Nest.js for building scalable backends. My expertise extends to both Relational (MySQL, PostgreSQL) and NoSQL (MongoDB) databases, allowing me to architect efficient, data-driven solutions from the ground up. I thrive in collaborative, fast-paced environments and am highly adaptable to new technologies. Whether I’m refining the user experience on the frontend or optimizing complex logic on the backend, my focus remains the same: delivering high-quality, performant, and maintainable code. I am always open to meaningful collaborations where I can contribute my technical skills and work ethic to a forward-thinking team.
 
 
 ## Skills  
-
 <br />
-
 ### Technical Expertise & Architectural Philosophy
 
 I specialize in building scalable, maintainable systems by adhering to SOLID principles and Clean Architecture. My approach focuses on decoupling business logic from framework-specific implementation to ensure long-term code quality.
@@ -48,9 +45,7 @@ Principles: Committed to DRY (Don't Repeat Yourself) and KISS (Keep It Simple, S
 
 
 ## Experience  
-
 <br />
-
 I have built a career focused on rapid adaptability and technical excellence, moving from specialized frontend role to comprehensive full-stack engineering. 
 
 <table>
