@@ -53,11 +53,11 @@ Principles: Committed to DRY (Don't Repeat Yourself) and KISS (Keep It Simple, S
 
 I have built a career focused on rapid adaptability and technical excellence, moving from specialized frontend role to comprehensive full-stack engineering. 
 
- Year(s) | Role   | Organization | Key Accomplishments
- :---:   | :---: | :---: |
- 2026 – Present | Software Developer (Full-Stack) | Roar Media Studio | Currently contributing to high-impact media and technology solutions as a Full-Stack Developer.
- 2024 – 2025 | Software Developer (Full-Stack) | Tutors Finland Oy | Spearheaded a critical migration from Angular 10 to 16, resolving 350+ issues and boosting performance by 20%. Led daily stand-ups for a 6-8 person team and took ownership of the Next.js (Creatlon) and Express.js (Chefk) projects to ensure 100% milestone completion.
- 2023 | Software Developer (Frontend) | Repliq | Engineered 50+ features across three major projects, improving application efficiency by 15% (Lighthouse/GA scores). Integrated Next.js, Axios and TanStack Query to accelerate development cycles and achieved a 95% on-time delivery rate through cross-functional collaboration.
+| Year(s) | Role | Organization | Key Accomplishments |
+|--------:|------|--------------|---------------------|
+ | 2026 – Present | Software Developer (Full-Stack) | Roar Media Studio   | Currently contributing to high-impact media and technology solutions as a Full-Stack Developer. |
+| 2024 – 2025    | Software Developer (Full-Stack) | Tutors Finland Oy   | Spearheaded a critical migration from Angular 10 to 16, resolving 350+ issues and boosting performance by 20%. Led daily stand-ups for a 6–8 person team and took ownership of the Next.js (Creatlon) and Express.js (Chefk) projects to ensure 100% milestone completion. |
+| 2023           | Software Developer (Frontend) | Repliq              | Engineered 50+ features across three major projects, improving application efficiency by 15% (Lighthouse/GA scores). Integrated Next.js, Axios and TanStack Query to accelerate development cycles and achieved a 95% on-time delivery rate through cross-functional collaboration. |
 
 <br />  
 
