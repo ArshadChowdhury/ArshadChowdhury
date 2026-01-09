@@ -1,7 +1,7 @@
 
 <br />
 <div style="text-decoration: none;">
-  <h1>👋 Hey I'm Arshad, a Passionate Software Engineer 💻</h1>
+  <h1>👋 Hey I'm Arshad, a Software Engineer 💻</h1>
 </div>
 
 ![An image of @arshadchowdhury23's Holopin badges, which links to view their full Holopin profile](https://holopin.me/arshadchowdhury23)
@@ -26,7 +26,7 @@ Design Patterns: I implement the Container/Presentational pattern to separate lo
 
 State Management: Experienced in managing complex application states using Zustand, Redux and TanStack Query for efficient server-state synchronization.
 
-#### Backend Development
+#### Backend Development -
 
 Core Stack: Highly proficient in Node.js/Express.js and Nest.js, building robust RESTful APIs.
 
@@ -34,7 +34,7 @@ Design Patterns: I leverage Nest.js’s built-in Dependency Injection (DI) and M
 
 Database Management: Skilled in architecting schemas for both Relational (PostgreSQL, MySQL) and NoSQL (MongoDB) databases, prioritizing query optimization and data integrity.
 
-#### Problem Solving & Learning
+#### Problem Solving & Learning -
 
 Foundations: Strong command of Data Structures and Algorithms through consistent practice in C/C++, which informs my approach to efficient code execution.
 
@@ -43,7 +43,9 @@ Principles: Committed to DRY (Don't Repeat Yourself) and KISS (Keep It Simple, S
 
 ## Experience  
 
-I have built a career focused on rapid adaptability and technical excellence, moving from specialized frontend role to comprehensive full-stack engineering. 
+I am a results-driven Full-Stack Software Engineer with a proven track record of architecting scalable web applications and leading cross-functional teams. My career is defined by a rapid evolution from crafting high-performance user interfaces to designing robust, end-to-end systems.
+
+Driven by a "Clean Code" philosophy, I specialize in modernizing legacy architectures and optimizing development lifecycles. I thrive in fast-paced environments where technical excellence and strategic problem-solving are paramount. Below is a year-wise timeline of my professional journey and the impact I have delivered at each stage.
 
 <table>
   <thead>
