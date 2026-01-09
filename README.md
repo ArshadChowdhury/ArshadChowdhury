@@ -1,7 +1,7 @@
 
 <br />
 <div style="text-decoration: none;">
-  <h1>👋 Hey I'm Arshad, a Passionate Full Stack Developer 💻</h1>
+  <h1>👋 Hey I'm Arshad, a Passionate Full Stack Engineer 💻</h1>
 </div>
 
 ![An image of @arshadchowdhury23's Holopin badges, which links to view their full Holopin profile](https://holopin.me/arshadchowdhury23)
@@ -58,19 +58,19 @@ I have built a career focused on rapid adaptability and technical excellence, mo
   <tbody>
     <tr>
       <td style="white-space: nowrap;">2026 – Present</td>
-      <td style="white-space: nowrap;">Software Developer (Full-Stack)</td>
+      <td style="white-space: nowrap;">Software Engineer (Full-Stack)</td>
       <td style="white-space: nowrap;">Roar Media Studio</td>
-      <td>Currently contributing to high-impact media and technology solutions as a Full-Stack Developer.</td>
+      <td>Currently contributing to high-impact media and technology solutions as a Full-Stack Engineer.</td>
     </tr>
     <tr>
       <td style="white-space: nowrap;">2024 – 2025</td>
-      <td style="white-space: nowrap;">Software Developer (Full-Stack)</td>
+      <td style="white-space: nowrap;">Software Engineer (Full-Stack)</td>
       <td style="white-space: nowrap;">Tutors Finland Oy</td>
       <td>Spearheaded a critical migration from Angular 10 to 16, resolving 350+ issues and boosting performance by 20%. Led daily stand-ups for a 6–8 person team and took ownership of the Next.js (Creatlon) and Express.js (Chefk) projects to ensure 100% milestone completion.</td>
     </tr>
     <tr>
       <td style="white-space: nowrap;">2023</td>
-      <td style="white-space: nowrap;">Software Developer (Frontend)</td>
+      <td style="white-space: nowrap;">Software Engineer (Frontend)</td>
       <td style="white-space: nowrap;">Repliq Limited</td>
       <td>Engineered 50+ features across three major projects, improving application efficiency by 15% (Lighthouse/GA scores). Integrated Next.js, Axios and TanStack Query to accelerate development cycles and achieved a 95% on-time delivery rate through cross-functional collaboration.</td>
     </tr>
