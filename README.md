@@ -11,9 +11,9 @@
 
 <br />
 
-- 👯 I'm looking for a offer as a full stack software developer.
-- 🔭 Currently I'm learning Cloud Engineering.  
-- 🌱 Diving deeper into AWS/Terraform.  
+- 👯 I'm looking for a role as a full stack software developer.
+- 🔭 Currently I'm exploring Cloud Engineering.  
+- 🌱 Diving deeper into AWS/Terraform/Kubernetes.  
 - 💬 Ask me anything about software design, development and programming in general!  
 - 💰 Open to all kinds of remote work opportunities.  
 - 📫 Contact me at **arshadchowdhury46@gmail.com**  
@@ -35,9 +35,6 @@ I have **3 years of software development experience** and am eager to bring my e
 
 <br />  
 
-<img height="250" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArshadChowdhury&langs_count=4&layout=donut&card_width=350&theme=onedark&text_bold=true" />  
-
-<br />  
 
 ## Let's Connect  
 
@@ -56,10 +53,6 @@ I have **3 years of software development experience** and am eager to bring my e
   &nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/Arshaaaaaaaaaad">
     <img src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="Twitter" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://codepen.io/Serial_killer_00">
-    <img src="https://cdn.simpleicons.org/codepen/black/white" alt="CodePen" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://codesandbox.io/u/ArshadChowdhury">
