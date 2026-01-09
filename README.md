@@ -49,9 +49,9 @@ I have built a career focused on rapid adaptability and technical excellence, mo
 <table>
   <thead>
     <tr>
-      <th style="width:120px;">Year(s)</th>
-      <th style="width:260px;">Role</th>
-      <th style="width:180px;">Organization</th>
+      <th style="width:220px;">Year(s)</th>
+      <th style="width:360px;">Role</th>
+      <th style="width:280px;">Organization</th>
       <th>Key Accomplishments</th>
     </tr>
   </thead>
