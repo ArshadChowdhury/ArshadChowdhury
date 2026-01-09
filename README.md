@@ -67,7 +67,7 @@ Driven by a "Clean Code" philosophy, I specialize in modernizing legacy architec
       <td style="white-space: nowrap;">2024 – 2025</td>
       <td style="white-space: nowrap;">Software Engineer (Full-Stack)</td>
       <td style="white-space: nowrap;">Tutors Finland Oy</td>
-      <td>Spearheaded a critical migration from Angular 10 to 16, resolving 350+ issues and boosting performance by 20%. Led daily stand-ups for a 6–8 person team and took ownership of the Next.js (Creatlon) and Express.js (Chefk) projects to ensure 100% milestone completion.</td>
+      <td>Spearheaded a critical migration from Angular 10 to 16, resolving 350+ issues and boosting performance by 20%. Led daily stand-ups for a 6–8 person team and took ownership of the Creatlon (Next.js) and Chef Koochooloo (Express.js) projects to ensure 100% milestone completion.</td>
     </tr>
     <tr>
       <td style="white-space: nowrap;">2023</td>
