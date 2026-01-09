@@ -75,6 +75,12 @@ I have built a career focused on rapid adaptability and technical excellence, mo
       <td>Tutors Finland Oy</td>
       <td>Spearheaded a critical migration from Angular 10 to 16, resolving 350+ issues and boosting performance by 20%. Led daily stand-ups for a 6–8 person team and took ownership of the Next.js (Creatlon) and Express.js (Chefk) projects to ensure 100% milestone completion.</td>
     </tr>
+    <tr>
+      <td>2023</td>
+      <td>Software Developer (Frontend)</td>
+      <td>Repliq Limited</td>
+      <td>Engineered 50+ features across three major projects, improving application efficiency by 15% (Lighthouse/GA scores). Integrated Next.js, Axios and TanStack Query to accelerate development cycles and achieved a 95% on-time delivery rate through cross-functional collaboration.</td>
+    </tr>
   </tbody>
 </table>
 
