@@ -88,15 +88,11 @@ An active proponent of the open-source ecosystem. Contributed to several project
 
 <div align="left">
   <a href="https://arshadchowdhury.vercel.app/">
-    <img src="https://cdn.simpleicons.org/weblate/black/white" alt="Website" height="40" />
+    <img src="https://arshadchowdhury.vercel.app/_next/image?url=%2Flogo.png&w=64&q=75" alt="Website" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mohammed-arshad-67920b213/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/arshad.chowdhury23/">
-    <img src="https://cdn.simpleicons.org/facebook/black/white" alt="Facebook" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/Arshaaaaaaaaaad">
