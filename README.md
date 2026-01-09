@@ -8,9 +8,9 @@
 
 ## About Me
 
-I am a versatile Full-Stack Software Engineer with more than three years of experience crafting clean, user-centric web applications. My journey is defined by a deep-seated passion for problem-solving and a commitment to modern development practices.
+I am a versatile Full-Stack Software Engineer with more than 3 years of experience crafting clean, user-centric web applications. My journey is defined by a deep-seated passion for problem-solving and a commitment to modern development practices.
 
-With a robust technical foundation across the entire stack, I specialize in the React/Next.js & Angular ecosystem for the frontend and Node.js/Express.js/Nest.js for building scalable backends. My expertise extends to both Relational (MySQL, PostgreSQL) and NoSQL (MongoDB) databases, allowing me to architect efficient, data-driven solutions from the ground up. I thrive in collaborative, fast-paced environments and am highly adaptable to new technologies. Whether I’m refining the user experience on the frontend or optimizing complex logic on the backend, my focus remains the same: delivering high-quality, performant, and maintainable code. I am always open to meaningful collaborations where I can contribute my technical skills and work ethic to a forward-thinking team.
+I thrive in collaborative, fast-paced environments and am highly adaptable to new technologies. Whether I’m refining the user experience on the frontend or optimizing complex logic on the backend, my focus remains the same: delivering high-quality, performant and maintainable code. I am always open to meaningful collaborations where I can contribute my technical skills and work ethic to a forward-thinking team.
 
 ## Skills  
 
