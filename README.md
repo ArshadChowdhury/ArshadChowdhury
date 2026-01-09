@@ -11,29 +11,60 @@
 
 <br />
 
-- 👯 I'm looking for a role as a full stack software developer.
-- 🔭 Currently I'm exploring Cloud Engineering.  
-- 🌱 Diving deeper into AWS/Terraform/Kubernetes.  
-- 💬 Ask me anything about software design, development and programming in general!  
-- 💰 Open to all kinds of remote work opportunities.  
-- 📫 Contact me at **arshadchowdhury46@gmail.com**  
+I am a versatile Full-Stack Software Engineer with more than three years of experience crafting clean, user-centric web applications. My journey is defined by a deep-seated passion for problem-solving and a commitment to modern development practices.
+
+With a robust technical foundation across the entire stack, I specialize in the React/Next.js & Angular ecosystem for the frontend and Node.js/Express.js/Nest.js for building scalable backends. My expertise extends to both Relational (MySQL, PostgreSQL) and NoSQL (MongoDB) databases, allowing me to architect efficient, data-driven solutions from the ground up. I thrive in collaborative, fast-paced environments and am highly adaptable to new technologies. Whether I’m refining the user experience on the frontend or optimizing complex logic on the backend, my focus remains the same: delivering high-quality, performant, and maintainable code. I am always open to meaningful collaborations where I can contribute my technical skills and work ethic to a forward-thinking team.
+
 
 ## Skills  
 
 <br />
 
-- **Frontend**: HTML/CSS/SCSS/Tailwind CSS, JavaScript, React.js/Next.js, Angular  
-- **Backend**: Node.js, Express.js, Nest.js  
-- **Databases**: MongoDB, MySQL, PostgreSQL etc.  
-- **Others**: C / C++ (Still learning with problem-solving)  
+### Technical Expertise & Architectural Philosophy
+
+I specialize in building scalable, maintainable systems by adhering to SOLID principles and Clean Architecture. My approach focuses on decoupling business logic from framework-specific implementation to ensure long-term code quality.
+
+#### Frontend Development - 
+
+Core Stack: Expert in React / Next.js & Angular, utilizing TypeScript for type safety and Tailwind CSS/SCSS for responsive, modern UI design.
+
+Design Patterns: I implement the Container/Presentational pattern to separate logic from view and utilize Custom Hooks to encapsulate reusable stateful logic.
+
+State Management: Experienced in managing complex application states using Zustand, Redux and TanStack Query for efficient server-state synchronization.
+
+#### Backend Development
+
+Core Stack: Highly proficient in Node.js/Express.js and Nest.js, building robust RESTful APIs.
+
+Design Patterns: I leverage Nest.js’s built-in Dependency Injection (DI) and Module-based architecture to create highly testable and modular backends. I frequently use the Repository Pattern to abstract data access logic and DTOs (Data Transfer Objects) for strict request validation.
+
+Database Management: Skilled in architecting schemas for both Relational (PostgreSQL, MySQL) and NoSQL (MongoDB) databases, prioritizing query optimization and data integrity.
+
+#### Problem Solving & Learning
+
+Foundations: Strong command of Data Structures and Algorithms through consistent practice in C/C++, which informs my approach to efficient code execution.
+
+Principles: Committed to DRY (Don't Repeat Yourself) and KISS (Keep It Simple, Stupid) principles to reduce technical debt.
+
 
 ## Experience  
 
 <br />
 
-I have **3 years of software development experience** and am eager to bring my expertise to exciting new projects!  
+I have built a career focused on rapid adaptability and technical excellence, moving from specialized frontend role to comprehensive full-stack engineering. 
+
+| Year(s) | Role   | Organization | Key Accomplishments
+| :---:   | :---: | :---: |
+| 2026 – Present | Software Developer (Full-Stack) | Roar Media Studio | Currently contributing to high-impact media and technology solutions as a Full-Stack Developer.
+| 2024 – 2025 | Software Developer (Full-Stack) | Tutors Finland Oy | Spearheaded a critical migration from Angular 10 to 16, resolving 350+ issues and boosting performance by 20%. Led daily stand-ups for a 6-8 person team and took ownership of the Next.js (Creatlon) and Express.js (Chefk) projects to ensure 100% milestone completion.
+| 2023 | Software Developer (Frontend) | Repliq | Engineered 50+ features across three major projects, improving application efficiency by 15% (Lighthouse/GA scores). Integrated Next.js, Axios and TanStack Query to accelerate development cycles and achieved a 95% on-time delivery rate through cross-functional collaboration.
 
 <br />  
+
+## Highlights & Open Source Contributions
+
+An active proponent of the open-source ecosystem. Contributed to several projects during Hacktoberfest, gaining hands-on experience in the collaborative lifecycle from forking & codebase navigation to effective communication and Pull Request (PR) management. Currently deepening core programming foundations through rigorous study of Data Structures and Algorithms (DSA) and problem-solving to architect more efficient, high-performance software. Experienced in translating complex technical requirements into actionable development tasks and maintaining clear communication across cross-functional teams.
+
 
 
 ## Let's Connect  
