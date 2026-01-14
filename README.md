@@ -10,7 +10,7 @@
 
 I am a versatile Full-Stack Software Engineer with 3+ years of experience crafting clean, user-centric web applications. My journey is defined by a deep-seated passion for problem-solving and a commitment to modern development practices.
 
-I thrive in collaborative, fast-paced environments and am highly adaptable to new technologies. Whether I’m refining the user experience on the frontend or optimizing complex logic on the backend, my focus remains the same: delivering high-quality, performant and maintainable code. I am always open to meaningful collaborations where I can contribute my technical skills and work ethic to a forward-thinking team.
+I thrive in collaborative, fast-paced environments and am highly adaptable to new technologies. Whether I’m refining the user experience on the frontend or optimizing complex logic on the backend, my focus remains the same - delivering high-quality, performant and maintainable code. I am always open to meaningful collaborations where I can contribute my technical skills and work ethic to a forward-thinking team.
 
 ## Skills  
 
@@ -28,7 +28,7 @@ State Management: Experienced in managing complex application states using Zusta
 
 #### Backend Development -
 
-Core Stack: Highly proficient in Node.js/Express.js and Nest.js, building robust RESTful APIs.
+Core Stack: Highly proficient in Node.js and Express/Nest.js, building robust RESTful APIs.
 
 Design Patterns: I leverage Nest.js’s built-in Dependency Injection (DI) and Module-based architecture to create highly testable and modular backends. I frequently use the Repository Pattern to abstract data access logic and DTOs (Data Transfer Objects) for strict request validation.
 
