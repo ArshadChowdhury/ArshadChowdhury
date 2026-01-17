@@ -61,7 +61,7 @@ Driven by a "Clean Code" philosophy, I specialize in modernizing legacy architec
       <td style="white-space: nowrap;">2026 – Present</td>
       <td style="white-space: nowrap;">Software Engineer (Full-Stack)</td>
       <td style="white-space: nowrap;">Roar Media Studio</td>
-      <td>Currently contributing to high-impact media and technology solutions as a Full-Stack Engineer.</td>
+      <td>Currently contributing to high-impact technology solutions as a Full-Stack Engineer.</td>
     </tr>
     <tr>
       <td style="white-space: nowrap;">2024 – 2025</td>
