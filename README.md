@@ -8,7 +8,7 @@
 
 ## About Me
 
-I am a versatile Full-Stack Software Engineer with 3+ years of experience crafting clean, user-centric web applications. My journey is defined by a deep-seated passion for problem-solving and a commitment to modern development practices.
+I'm a versatile Full-Stack Software Engineer with 3+ years of experience crafting clean, user-centric web applications. My journey is defined by a deep-seated passion for problem-solving and a commitment to modern development practices.
 
 I thrive in collaborative, fast-paced environments and am highly adaptable to new technologies. Whether I’m refining the user experience on the frontend or optimizing complex logic on the backend, my focus remains the same - delivering high-quality, performant and maintainable code. I am always open to meaningful collaborations where I can contribute my technical skills and work ethic to a forward-thinking team.
 
