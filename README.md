@@ -81,7 +81,7 @@ Driven by a "Clean Code" philosophy, I specialize in modernizing legacy architec
 
 ## Highlights & Open Source Contributions
 
-An active proponent of the open-source ecosystem. Contributed to several projects during Hacktoberfest 2024, gaining hands-on experience in the collaborative lifecycle from forking & codebase navigation to effective communication and Pull Request (PR) management. Currently deepening core programming foundations through rigorous study of Data Structures & Algorithms (DSA), problem-solving to architect more efficient, high-performance software. Experienced in translating complex technical requirements into actionable development tasks and maintaining clear communication across cross-functional teams.
+An active proponent of the open-source ecosystem. Contributed to several projects during Hacktoberfest 2024, gaining hands-on experience in the collaborative lifecycle from forking & codebase navigation to effective communication & Pull Request (PR) management. Currently deepening core programming foundations through rigorous study of Data Structures & Algorithms (DSA), problem-solving to architect more efficient, high-performance software. Experienced in translating complex technical requirements into actionable development tasks and maintaining clear communication across cross-functional teams.
 
 
 
