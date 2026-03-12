@@ -70,7 +70,7 @@ Driven by a "Clean Code" philosophy, I specialize in modernizing legacy architec
       <td>Spearheaded a critical migration from Angular 10 to 16, resolving 350+ issues and boosting performance by 20%. Led daily stand-ups for a 6–8 person team and took ownership of the Creatlon (Next.js) & Chef Koochooloo (Express.js) projects to ensure 100% milestone completion.</td>
     </tr>
     <tr>
-      <td style="white-space: nowrap;">2023</td>
+      <td style="white-space: nowrap;">2023 - 2024</td>
       <td style="white-space: nowrap;">Software Engineer (Frontend)</td>
       <td style="white-space: nowrap;">Repliq Limited</td>
       <td>Engineered 50+ features across three major projects, improving application efficiency by 15% (Lighthouse/GA scores). Integrated Next.js, Axios and TanStack Query to accelerate development cycles and achieved a 95% on-time delivery rate through cross-functional collaboration.</td>
