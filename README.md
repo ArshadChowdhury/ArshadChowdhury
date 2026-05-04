@@ -93,7 +93,7 @@ An active proponent of the open-source ecosystem. Contributed to several project
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mohammed-arshad-67920b213/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn" height="40" />
+    <img src="https://imgs.search.brave.com/NIzmJ5XvFZjLlt-frdsY4XX08NOgI4_8bFdfyKz-VVU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL2ZyZWUv/cG5nLTI1Ni9mcmVl/LWxpbmtlZGluLWxv/Z28taWNvbi1zdmct/ZG93bmxvYWQtcG5n/LTg0NjE1NDEucG5n/P2Y9d2VicCZ3PTEy/OA" alt="LinkedIn" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/Arshaaaaaaaaaad">
