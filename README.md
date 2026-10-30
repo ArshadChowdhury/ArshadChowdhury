@@ -59,9 +59,9 @@ Driven by a "Clean Code" philosophy, I specialize in modernizing legacy architec
   <tbody>
     <tr>
       <td style="white-space: nowrap;">2026 – Present</td>
-      <td style="white-space: nowrap;">Software Engineer (Full-Stack)</td>
+      <td style="white-space: nowrap;">Senior Software Engineer</td>
       <td style="white-space: nowrap;">Roar Media Studio</td>
-      <td>Currently contributing to high-impact technology solutions as a Full-Stack Engineer.</td>
+      <td>Senior engineer for an event management and ticketing platform where organizers publish events and manage attendance and customers buy and resell tickets online. Delivered the production MVP end to end in 12 weeks, from architecture to deployment, on a Next.js / React / TypeScript front end and a NestJS / PostgreSQL back end. Own the back-end platform (API design, authentication, the data model for events, tickets, orders and resale), the full front end (including Core Web Vitals work that cut page load time by 30%) and the entire infrastructure layer solo: CI/CD pipelines, environments and deployments on AWS & Vercel.</td>
     </tr>
     <tr>
       <td style="white-space: nowrap;">2026 – 2026</td>
