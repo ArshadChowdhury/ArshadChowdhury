@@ -64,6 +64,14 @@ Driven by a "Clean Code" philosophy, I specialize in modernizing legacy architec
       <td>Currently contributing to high-impact technology solutions as a Full-Stack Engineer.</td>
     </tr>
     <tr>
+      <td style="white-space: nowrap;">2026 – 2026</td>
+      <td style="white-space: nowrap;">Senior Software Engineer</td>
+      <td style="white-space: nowrap;">Carsu Technologies</td>
+      <td>Carsu is a multi-tenant SaaS platform for car workshops across Europe (Greece, Italy, Spain, the UK, the Netherlands): online booking, work cards, estimates and invoicing, customer messaging over WhatsApp, Viber and SMS, and subscription billing. Stack: Next.js / React / TypeScript on the front end, NestJS / Prisma / PostgreSQL on the back end, Azure Container Apps and Vercel, GitHub Actions.
+
+</td>
+    </tr>
+    <tr>
       <td style="white-space: nowrap;">2024 – 2025</td>
       <td style="white-space: nowrap;">Software Engineer (Full-Stack)</td>
       <td style="white-space: nowrap;">Tutors Finland Oy</td>
